@@ -1,4 +1,4 @@
-[The Five Levels of Distrubted Teams](https://medium.com/swlh/the-five-levels-of-remote-work-and-why-youre-probably-at-level-2-ccaf05a25b9c) 
+[The Five Levels of Distrubted Teams](https://medium.com/swlh/the-five-levels-of-remote-work-and-why-youre-probably-at-level-2-ccaf05a25b9c) by Steve Glaveski
 -----------
 - Level 1: Non-Deliberate Action
   - No specific action taken to accomodate remote work
@@ -23,7 +23,7 @@
   - This is where a distributed team is an order of magnitude more productive than any 9-5 team of its size
   - Mullenweg (Automattic CEO) equates this level with having more emphasis on ‘environment design’, insofar as the organisation’s culture, and the physical environment people work in is concerned.
 
-[A Guide to Distributed Teams](https://increment.com/teams/a-guide-to-distributed-teams/)
+[A Guide to Distributed Teams](https://increment.com/teams/a-guide-to-distributed-teams/) by Juan Pablo Buriticá and Katie Womersley
 -----------
 - All teams are distributed to some extent past a certain size
 - Re-estbalish context frequently, ensure everyone is one the same page
@@ -33,7 +33,7 @@
 - Hiring: " When you’re hiring remotely, hire remotely: Have your process mirror how you’ll work. Interview folks over video call, rather than in person. Pay attention to the clarity of written communication during hiring emails and how responsive your candidate is. Do they arrive to the video call on time? Do they send back your take-home on time? If not, are they communicative about needing more time? A candidate who’s hard to connect with during hiring isn’t likely to be a great remote worker."
 
 
-[Managing Remote Teams - A Crash Course](https://klinger.io/post/180989912140/managing-remote-teams-a-crash-course)
+[Managing Remote Teams - A Crash Course](https://klinger.io/post/180989912140/managing-remote-teams-a-crash-course) by Andreas Klinger
 -----------
 - Main benefits:
   - Being able to hire, the best possible people independent of where they (or you) are
@@ -60,7 +60,7 @@
   - Recorded videos instead of live-conversations or demos
 
 
-How to operate your startup under lock-down. https://klinger.io/post/612591504694919168/close-your-office-now-how-to-operate-your
+[How to operate your startup under lock-down](https://klinger.io/post/612591504694919168/close-your-office-now-how-to-operate-your) by Andreas Klinger
 -----------
 - #hibye channel (encourage team members to sign on and off for the day, make it fun, could use #scrum)
 - State of Remote Work 2020 (good data here) https://lp.buffer.com/state-of-remote-work-2020
@@ -69,7 +69,7 @@ How to operate your startup under lock-down. https://klinger.io/post/61259150469
 - Guide to effective communication with remote teams https://about.gitlab.com/company/culture/all-remote/effective-communication/
 
 
-[OMG I’m working remotely, now what?!](https://benediktlehnert.github.io/)
+[OMG I’m working remotely, now what?!](https://benediktlehnert.github.io/) by Benedikt Lehnert
 -----------
 - When in doubt, over-communicate
 - Example week flow
