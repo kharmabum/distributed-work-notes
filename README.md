@@ -1,4 +1,4 @@
-[The Five Levels of Distrubted Teams](https://medium.com/swlh/the-five-levels-of-remote-work-and-why-youre-probably-at-level-2-ccaf05a25b9c) by Steve Glaveski
+[The Five Levels of Distrubuted Teams](https://medium.com/swlh/the-five-levels-of-remote-work-and-why-youre-probably-at-level-2-ccaf05a25b9c) by Steve Glaveski
 -----------
 - Level 1: Non-Deliberate Action
   - No specific action taken to accomodate remote work
@@ -84,3 +84,13 @@
 - Encourage a culture of sharing frequent updates
   - Use a scrum or team channel
   - "Pro-tip: Do a screen recording with you talking over your design / prototype / slides and share that with your team mates. That way they get your full train of thought and can listen to you as well for an added personal touch and connection."
+
+
+[There's No One Right Way to Work Remotely](https://www.hashicorp.com/blog/there-s-no-one-right-way-to-work-remotely/)
+-----------
+- "HashiCorp employees have a few things in common in approaching remote work — they look inwards to understand what's important to them, they shape their work environment and calendar to reflect those priorities, and they thoughtfully communicate and connect with colleagues."
+- Integrating vs separating work and personal life is an individual choice (includes many anecdotes)
+- "Work the room" when hosting team calls: "Ask for peoples' opinions, make sure you spread the time around so one or two people don’t dominate"
+- "Distributed companies don't provide a social network "for free" like co-located companies, so it's important for employees to be more intentional about creating both their work community and their local community."
+- "Remote relationships take more effort because you are not forced to interact with people...you have to be intentional and brave. When you are meeting a remote colleague for the first time, take a moment to learn about them, their story. Ask them what their interests are outside of work. It can seem odd when you are there to talk about a project that is behind schedule, but it may do a lot to build trust and empathy in the long run."
+- Emojis can help communicate body language and friendliness
